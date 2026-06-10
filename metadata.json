@@ -1,0 +1,6 @@
+{
+  "name": "Chatbot Trồng Trọt HCEM",
+  "description": "Trợ lý học tập Trồng trọt trực tuyến của Trường Cao đẳng Cơ điện Hà Nội (HCEM), hỗ trợ sinh viên trung cấp từ module MH07 đến MH22.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
